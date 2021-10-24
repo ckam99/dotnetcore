@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eh45F1zAQO0AWZdYKTfFlkK8OYPiEpr3vN8Wc6Lw1E6xYAX1BDqUne0DLIOlx2esp9pKx1vZPtyz9Kpx2HO6aQ==",
+  "success": true,
+  "projectFilePath": "/home/ckam/www/lab/dotnet/ApiGatewaySample/ApiGatewaySample.csproj",
+  "expectedPackageFiles": [
+    "/home/ckam/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/ckam/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/ckam/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/ckam/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/ckam/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/ckam/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
